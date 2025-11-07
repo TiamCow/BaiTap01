@@ -21,6 +21,8 @@ Giao diện chính của ứng dụng, hiển thị thông tin sinh viên và c�
 
 *(Đây là nơi bạn sẽ chèn ảnh chụp màn hình của ứng dụng, ví dụ:)*
 `![Ảnh chụp màn hình ứng dụng](./screenshot.png)`
+<img width="484" height="886" alt="image" src="https://github.com/user-attachments/assets/515e859a-eb19-4053-9bbf-85973572b96d" />
+
 
 ## ✨ Tính năng
 
