@@ -82,6 +82,7 @@ Làm theo các bước sau để chạy dự án trên máy của bạn.
 ## 🧑‍💻 Tác giả
 
 * **Họ và tên:** Cao Đẳng Huy
+* **MSSV:**23162028
 * **Thông tin:** Sinh viên năm 3
 * **Ngành:** An Toàn Thông Tin
 * **Trường:** Đại Học Sư Phạm Kỹ Thuật
