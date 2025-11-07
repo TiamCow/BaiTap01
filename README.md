@@ -18,9 +18,6 @@
 ## 🖼️ Ảnh chụp màn hình
 
 Giao diện chính của ứng dụng, hiển thị thông tin sinh viên và các chức năng.
-
-*(Đây là nơi bạn sẽ chèn ảnh chụp màn hình của ứng dụng, ví dụ:)*
-`![Ảnh chụp màn hình ứng dụng](./screenshot.png)`
 <img width="484" height="886" alt="image" src="https://github.com/user-attachments/assets/515e859a-eb19-4053-9bbf-85973572b96d" />
 
 
@@ -28,20 +25,24 @@ Giao diện chính của ứng dụng, hiển thị thông tin sinh viên và c�
 
 Dự án này bao gồm một `Activity` duy nhất với các chức năng được yêu cầu sau:
 
-1.  **Thiết kế Giao diện (Yêu cầu 2 & 3):**
+1.  **Thiết kế Giao diện:**
     * Hiển thị thông tin cá nhân (Tên, Lớp, Trường) và avatar của sinh viên.
     * Sử dụng thư viện `de.hdodenhof.circleimageview.CircleImageView` để bo tròn hình ảnh avatar.
     * Ẩn thanh tiêu đề (Action Bar) mặc định của Android để có giao diện toàn màn hình, gọn gàng hơn.
 
-2.  **Đảo ngược chuỗi (Yêu cầu 5):**
+2.  **Đảo ngược chuỗi:**
     * **Đầu vào:** Người dùng nhập một chuỗi ký tự bất kỳ từ `EditText`.
     * **Xử lý:** Khi nhấn nút "Đảo chuỗi", chương trình sẽ đảo ngược thứ tự các **từ** trong chuỗi (ví dụ: "I LOVE YOU" → "YOU LOVE I") và chuyển toàn bộ kết quả sang **chữ IN HOA**.
     * **Đầu ra:** Hiển thị chuỗi kết quả lên `TextView` và một thông báo `Toast`.
+<img width="431" height="547" alt="image" src="https://github.com/user-attachments/assets/b0a5d94d-6079-4257-aacc-bb79cf152baa" />
 
-3.  **Kiểm tra Chẵn/Lẻ (Yêu cầu 4):**
+3.  **Kiểm tra Chẵn/Lẻ:**
     * **Đầu vào:** Người dùng nhập một chuỗi các số, cách nhau bằng dấu cách (ví dụ: `1 2 3 4 5 6`).
     * **Xử lý:** Khi nhấn nút "Kiểm tra Chẵn/Lẻ", chương trình phân tích chuỗi, lưu các số vào một `ArrayList<Integer>`, sau đó duyệt mảng để phân loại số chẵn và số lẻ.
     * **Đầu ra:** In danh sách số chẵn và số lẻ riêng biệt ra **Log.d** (trong cửa sổ Logcat của Android Studio).
+<img width="432" height="882" alt="image" src="https://github.com/user-attachments/assets/5be423b4-5fa3-4639-b223-e4a41ba97cac" />
+<img width="1244" height="164" alt="image" src="https://github.com/user-attachments/assets/25f9f282-e088-485d-9ed1-345384560700" />
+
 
 ## 🛠️ Yêu cầu kỹ thuật
 
